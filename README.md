@@ -6,7 +6,7 @@ My name's James (Walker). I'm a **"Middle-End" Web Developer** specializing in *
 
 👨🏽‍🎓 I like to always be in the process of learning new technologies. Last year, I learned **Svelte/SveleteKit**, **GraphQL**, **Typescript** and **WebGL** (through the lens of react-three-fiber). I am currently a **Freelancer** working mostly in eCommerce.
 
-🤸🏽‍♂️ Even outside of my developer life I enjoy building and refining things (including myself!). My preoccupations range from [**cycling up mountains**](https://www.strava.com/athletes/379856), **language learning** (Vietnamese, currently), and **gardening** to some odd stuff like **building mechanical keyboards** (DD is an Akko MOD007), and **speedcubing** ("speed" is probably an overstatement at this point 😅). 
+🤸🏽‍♂️ Even outside of my developer life I enjoy building and refining things (including myself!). My preoccupations range from [**cycling up mountains**](https://www.strava.com/athletes/379856), **language learning** (Vietnamese, currently), and **gardening**, to some more niche stuff like **building mechanical keyboards** (DD is an Akko MOD007), and **speedcubing** ("speed" is probably an overstatement at this point 😅). 
 In a past life I was a professional musician (piano & trombone), but I still enjoy playing and composing today.
 
 
