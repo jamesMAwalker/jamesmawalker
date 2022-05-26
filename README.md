@@ -8,7 +8,6 @@ My name's James (Walker). I'm a **"Middle-End" Web Developer** specializing in *
 
 🤸🏽‍♂️ Even outside of my developer life I enjoy building and refining things (including myself!). My preoccupations range from [**cycling up mountains**](https://www.strava.com/athletes/379856), **language learning** (Vietnamese, currently), and **gardening**, to some more niche stuff like **building mechanical keyboards** (DD is an Akko MOD007), and **speedcubing** ("speed" is probably an overstatement at this point 😅). 
 
-In a past life I was a professional musician (piano & trombone), but I still enjoy playing and composing today.
 
 
 
