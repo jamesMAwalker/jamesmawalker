@@ -2,7 +2,7 @@
 
 ## 🚴🏽‍♀️ About Me
 
-My name's James (Walker). I'm a **"Middle-End" Web Developer** specializing in **React** in the front-end (alongside its various frameworks) and **NodeJS** on the back.  **Top Rated** [**Freelancer**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) on _Upwork_. I am also Pursuing my Bachelor in **Computer Science & Engineering** and will graduate in mid-2022.
+My name's James (Walker). I'm a **"Middle-End" Web Developer** specializing in **React** in the front-end (alongside its various frameworks) and **NodeJS** on the back.
 
 👨🏽‍🎓 I like to always be in the process of learning new technologies. Last year, I learned **Svelte/SveleteKit**, **GraphQL**, **Typescript** and **WebGL** (through the lens of react-three-fiber). I am currently a **Freelancer** working mostly in eCommerce.
 
