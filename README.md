@@ -1,4 +1,4 @@
-# Hi there! <img src="https://media.giphy.com/media/ooFWU2tmYrrtC/giphy.gif" width="25px">
+# Hi there! <img src="https://media.giphy.com/media/ooFWU2tmYrrtC/giphy.gif" height="25px">
 
 ## 🚴🏽‍♀️ About Me
 
