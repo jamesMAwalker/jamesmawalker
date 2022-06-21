@@ -2,7 +2,7 @@
 
 ## 🚴🏽‍♀️ About Me
 
-My name's James (Walker). I'm a **"Middle-End" Web Developer** specializing in **React** on the front-end (alongside its various frameworks) and **NodeJS/Express** as the back-end of my stack.
+My name's James Walker. I'm a **"Middle-End" Web Developer** specializing in **React** on the front-end (alongside its various frameworks) and **NodeJS/Express** as the back-end of my stack.
 
 👨🏽‍🎓 I like to always be in the process of learning new technologies. Last year, I learned **Svelte/SveleteKit**, **GraphQL**, **Typescript** and **WebGL** (through the lens of react-three-fiber). I am currently a **Freelancer** working mostly in eCommerce.
 
